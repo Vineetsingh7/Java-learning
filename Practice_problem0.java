@@ -18,9 +18,9 @@ public class Practice_problem0{
      int Scince = sc.nextByte();
      System.out.println("SST");
      int SST = sc.nextByte();
-     int sum = Hindi+English+Maths+Scince+SST ;
+     int sum = ( Hindi + English + Maths + Scince +  SST );
      System.out.println("Total marks:" + sum);
-     int multi = (sum*100);
+     float multi = (sum*100);
      float per = (multi/500);
      System.out.println("The percentage of the student is:" + per + "%");
   }  
