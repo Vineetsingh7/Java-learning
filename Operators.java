@@ -15,5 +15,7 @@ public class Operators {
         System.out.println(8==9);
         System.out.println(64>5);
         System.out.println(65>58 && 85>58);
+        System.out.println(64>5 || 54<5);
+        System.out.println("Hiii my name is Vineet singh ");
     }
     }
